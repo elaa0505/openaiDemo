@@ -17,11 +17,11 @@ Live Demo here <a href="https://chat-gtp-clone.vercel.app/" target="_blank">Chat
 
 - Clone the repo 
   ```bash
-  git clone https://github.com/Jace-Tech/ChatGTP-clone.git
+  git clone https://github.com/elaa0505/openaiDemo.git
   ```
 - Navigate to the `backend/` folder
   ```bash
-  cd ChatGTP-clone/backend
+  cd openaiDemo/backend
   ```
   Then install all the dependencies
   ```bash
